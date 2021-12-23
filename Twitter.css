@@ -287,3 +287,47 @@ h4 {
   border-bottom-left-radius: 30px;
   border-bottom-right-radius: 30px;
 }
+
+#left-low{
+  margin-top: 30px;
+  border-radius: 15px;
+  background: #202c38;
+}
+#left-low h2{
+  padding-left: 30px;
+}
+#left-low img{
+  padding:10px;
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+}
+
+#left-low a{
+  border-radius: 30px;
+  text-decoration: none;
+  font-family: 'bold';
+  font-size: 14px;
+  padding: 5px 20px;
+  background-color: #fff;
+}
+
+#left-low div{
+  align-items: center;
+}
+.name{
+  font-family: 'Bold';
+  font-size: 15px;
+}
+.twitter-id{
+  font-family: 'regu';
+}
+.on-hover{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-right: 20px;
+}
+.on-hover:hover{ 
+  background-color: #4d6072;
+}
