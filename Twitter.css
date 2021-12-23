@@ -174,10 +174,12 @@ h4 {
 }
 
 .contentinfo {
+  padding-top: 15px;
   display: flex;
   color: white;
   align-content: center;
   cursor: pointer;
+  vertical-align: center;
 }
 #img3 {
   height: 55px;
@@ -235,6 +237,9 @@ h4 {
 .rightcontent {
   border-radius: 50px;
 }
+.contentheader {
+  display: flex;
+}
 .contenthead {
   /* border-radius: 30px; */
   border-top-left-radius: 30px;
@@ -283,51 +288,51 @@ h4 {
   flex: 0.7;
 }
 
-.radius{
+.radius {
   border-bottom-left-radius: 30px;
   border-bottom-right-radius: 30px;
 }
 
-#left-low{
+#left-low {
   margin-top: 30px;
   border-radius: 15px;
   background: #202c38;
 }
-#left-low h2{
+#left-low h2 {
   padding-left: 30px;
 }
-#left-low img{
-  padding:10px;
+#left-low img {
+  padding: 10px;
   height: 70px;
   width: 70px;
   border-radius: 50px;
 }
 
-#left-low a{
+#left-low a {
   border-radius: 30px;
   text-decoration: none;
-  font-family: 'bold';
+  font-family: "bold";
   font-size: 14px;
   padding: 5px 20px;
   background-color: #fff;
 }
 
-#left-low div{
+#left-low div {
   align-items: center;
 }
-.name{
-  font-family: 'Bold';
+.name {
+  font-family: "Bold";
   font-size: 15px;
 }
-.twitter-id{
-  font-family: 'regu';
+.twitter-id {
+  font-family: "regu";
 }
-.on-hover{
+.on-hover {
   display: flex;
   justify-content: space-between;
   padding: 10px;
   padding-right: 20px;
 }
-.on-hover:hover{ 
+.on-hover:hover {
   background-color: #4d6072;
 }
