@@ -47,6 +47,7 @@ body {
   padding: 10px;
   color: white;
 }
+
 h4 {
   font-size: 21px;
   font-weight: 500;
@@ -113,6 +114,7 @@ h4 {
   color: white;
   margin-left: 20px;
 }
+
 .statusfooter {
   margin-top: 25px;
   padding-left: 65px;
@@ -174,7 +176,7 @@ h4 {
 }
 
 .contentinfo {
-  padding-top: 15px;
+  padding-top: 10px;
   display: flex;
   color: white;
   align-content: center;
@@ -293,22 +295,22 @@ h4 {
   border-bottom-right-radius: 30px;
 }
 
-#left-low {
+#right-low {
   margin-top: 30px;
   border-radius: 15px;
   background: #202c38;
 }
-#left-low h2 {
+#right-low h2 {
   padding-left: 30px;
 }
-#left-low img {
+#right-low img {
   padding: 10px;
   height: 70px;
   width: 70px;
   border-radius: 50px;
 }
 
-#left-low a {
+#right-low a {
   border-radius: 30px;
   text-decoration: none;
   font-family: "bold";
@@ -317,7 +319,7 @@ h4 {
   background-color: #fff;
 }
 
-#left-low div {
+#right-low div {
   align-items: center;
 }
 .name {
