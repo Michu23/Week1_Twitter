@@ -5,15 +5,15 @@
 }
 @font-face {
   font-family: "twitterfont";
-  src: url(/chirp-regular-web.woff);
+  src: url(chirp-regular-web.woff);
 }
 @font-face {
   font-family: "Bold";
-  src: url(/chirp-bold-web.woff);
+  src: url(chirp-bold-web.woff);
 }
 @font-face {
   font-family: "regu";
-  src: url(/OpenSans-Regular.ttf);
+  src: url(OpenSans-Regular.ttf);
 }
 body {
   --tc: var(#1d9bf0);
